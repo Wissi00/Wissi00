@@ -35,6 +35,7 @@
 <br />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </div>
 
 **Architecture & Protocols:** `REST` | `gRPC` | `RMI` | `GraphQL` | `SOAP` | `OOP` | `MVC` | `Distributed Architecture`
