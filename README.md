@@ -8,9 +8,9 @@
 
 ## About Me
 
-* **Currently working on:** Dual Master's Degree in Software Engineering (CMI) and Management of Technologies and Sciences at University of Montpellier.
-* **Currently learning:** Advanced software engineering paradigms, distributed architectures, and technology management.
-* **How to reach me:** elhagewissi@gmail.com.
+* **Education:** in a Dual Master's Degree in Software Engineering (CMI) and Management of Technologies and Sciences at the University of Montpellier.
+* **Currently developing** a React Native mobile application for discovering and tracking shows, featuring extensive third-party API integrations.
+* **How to reach me:** wissamelhage4@gmail.com.
 
 ---
 
