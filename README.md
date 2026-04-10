@@ -59,3 +59,5 @@
 * **Flappy Ascent** Procedurally generated endless runner game developed in Python using Pygame.
 * **Bouncing Balls** Physics simulation utilizing Pygame and NumPy to compute gravity and realistic collisions.
 * **Celestial Cannon** 2D space survival game built with Pygame, featuring single-player and two-player modes.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Wissi00.Wissi00)
