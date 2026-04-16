@@ -6,15 +6,16 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-* **Education:** in a Dual Master's Degree in Software Engineering (CMI) and Management of Technologies and Sciences at the University of Montpellier.
-* **Currently developing** a React Native mobile application for discovering and tracking shows, featuring extensive third-party API integrations.
-* **How to reach me:** wissamelhage4@gmail.com.
+* **Education:** Dual Master's Degree in Software Engineering (CMI) and Management of Technologies and Sciences at the University of Montpellier.
+* **Focus:** Full-stack development, real-time systems, and building fluid, gesture-driven mobile experiences.
+* **Currently Building:** [AnySwipe](https://anyswipe-ce76c.web.app), a Tinder-style anime and TV show discovery app in React Native, and maintaining its core open-source interaction layer, **SwipeDeck**.
+* **Contact:** wissamelhage4@gmail.com
 
 ---
 
-## Technical Stack
+## 🛠 Technical Stack
 
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -42,22 +43,33 @@
 
 ---
 
-## Highlighted Projects
+## 🚀 Featured Open Source
+
+### [AnySwipe-SwipeDeck](https://github.com/Wissi00/AnySwipe-SwipeDeck)
+**A headless, 4-direction swipe-deck library for React Native.** Built as the core interaction engine for AnySwipe, this library bridges complex gesture detection with high-performance animations.
+* **Tech:** React Native, TypeScript, `react-native-reanimated`, `react-native-gesture-handler`.
+* **Features:**
+  * Fully headless architecture—bring your own card UI.
+  * 60fps animated 4-direction swiping (left, right, up, down).
+  * Built-in undo stack with animated card restore state machine.
+  * Batch loading support with automatic `onRemainingChange` triggers for infinite scroll.
+  * Programmatic swipe controls and customizable overlay configurations.
+
+---
+
+## 💻 Highlighted Projects
 
 ### Web & Multiplayer Systems
-* **6 Qui Prend** Real-time multiplayer web game built with React, Node.js, Express, Socket.io, and SQLite. Features a Python-based bot simulation engine where the custom bot ranked 2nd out of 15 in competition.
-* **Jeu de la Vie** Real-time multiplayer survival simulation on a procedural hexagonal grid. Built utilizing Node.js, Express, Socket.IO, and D3.js.
+* **6 Qui Prend:** Real-time multiplayer web game. Developed the backend and game state with Node.js, Express, Socket.io, and SQLite, and the frontend with React. Includes a Python-based custom bot simulation engine (ranked 2nd out of 15 in competition).
+* **Jeu de la Vie:** Real-time multiplayer survival simulation operating on a procedural hexagonal grid. Built utilizing Node.js, Express, Socket.IO, and D3.js for complex data visualization.
 
 ### Artificial Intelligence & Automation
-* **ChessBot** Automated chess bot utilizing the Minimax algorithm for decision making. Integrates Selenium WebDriver for browser automation and PyAutoGUI for physical mouse click simulation.
-* **Voice Controller** Voice recognition system processing commands via OpenAI tools and Groq.
+* **ChessBot:** Automated chess engine utilizing the Minimax algorithm for decision-making. Integrated Selenium WebDriver for browser automation and PyAutoGUI for physical mouse-click simulation.
+* **Voice Controller:** Voice recognition and command processing system powered by OpenAI tools and Groq.
 
 ### Low-Level & Compilers
-* **LISP to ASM Compiler** Compiler translating LISP code into Assembly, operating on a custom-built Virtual Machine.
+* **LISP to ASM Compiler:** Developed a compiler translating LISP code directly into Assembly, operating natively on a custom-built Virtual Machine.
 
 ### Physics & Game Development
-* **Flappy Ascent** Procedurally generated endless runner game developed in Python using Pygame.
-* **Bouncing Balls** Physics simulation utilizing Pygame and NumPy to compute gravity and realistic collisions.
-* **Celestial Cannon** 2D space survival game built with Pygame, featuring single-player and two-player modes.
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Wissi00.Wissi00)
+* **Physics Simulations:** Built realistic 2D collision and gravity computation engines using Python, Pygame, and NumPy (**Bouncing Balls**).
+* **Game Dev:** Created procedurally generated endless runners (**Flappy Ascent**) and 2D space survival games with multi-player support (**Celestial Cannon**).
