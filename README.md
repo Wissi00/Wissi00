@@ -10,7 +10,7 @@
 
 * **Education:** Dual Master's Degree in Software Engineering (CMI) and Management of Technologies and Sciences at the University of Montpellier.
 * **Focus:** Full-stack development, real-time systems, and building fluid, gesture-driven mobile experiences.
-* **Currently Building:** [AnySwipe](https://anyswipe-ce76c.web.app), a Tinder-style anime and TV show discovery app in React Native, and maintaining its core open-source interaction layer, **SwipeDeck**.
+* **Currently Building:** [AnySwipe](https://anyswipe-ce76c.web.app), a Tinder-style anime and TV show discovery app in React Native, now live on Google Play, and maintaining its core open-source interaction layer, **SwipeDeck**, published on npm as [`anyswipe-swipedeck`](https://www.npmjs.com/package/anyswipe-swipedeck).
 * **Contact:** wissamelhage4@gmail.com
 
 ---
@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 <img src="https://img.shields.io/badge/LISP-004088?style=for-the-badge&logo=lisp&logoColor=white" alt="LISP" />
 <br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
